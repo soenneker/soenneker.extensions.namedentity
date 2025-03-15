@@ -43,6 +43,6 @@
 
     <ItemGroup>
       <PackageReference Include="Soenneker.Dtos.IdNamePair" Version="3.0.629" />
-      <PackageReference Include="Soenneker.Entities.Named" Version="3.0.1131" />
+      <PackageReference Include="Soenneker.Entities.Named" Version="3.0.1133" />
     </ItemGroup>
 </Project>
