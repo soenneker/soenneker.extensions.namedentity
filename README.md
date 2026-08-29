@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.extensions.namedentity/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.extensions.namedentity/actions/workflows/codeql.yml)
 
 # ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Soenneker.Extensions.NamedEntity
-Projects one `INamedEntity` into a lightweight `IdNamePair`.
+Extension methods for projecting and transforming `INamedEntity` objects into compact identity and display models.
 
 ## Installation
 
